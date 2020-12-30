@@ -1,0 +1,140 @@
+C:\Users\HP\Desktop\Kargo\Kargo\bin\Debug\Kargo.exe.config
+C:\Users\HP\Desktop\Kargo\Kargo\bin\Debug\Kargo.exe
+C:\Users\HP\Desktop\Kargo\Kargo\bin\Debug\Kargo.pdb
+C:\Users\HP\Desktop\Kargo\Kargo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Desktop\Kargo\Kargo\bin\Debug\Npgsql.dll
+C:\Users\HP\Desktop\Kargo\Kargo\bin\Debug\System.Buffers.dll
+C:\Users\HP\Desktop\Kargo\Kargo\bin\Debug\System.Memory.dll
+C:\Users\HP\Desktop\Kargo\Kargo\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\Desktop\Kargo\Kargo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Desktop\Kargo\Kargo\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\HP\Desktop\Kargo\Kargo\bin\Debug\System.Text.Json.dll
+C:\Users\HP\Desktop\Kargo\Kargo\bin\Debug\System.Threading.Channels.dll
+C:\Users\HP\Desktop\Kargo\Kargo\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Desktop\Kargo\Kargo\bin\Debug\System.ValueTuple.dll
+C:\Users\HP\Desktop\Kargo\Kargo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\HP\Desktop\Kargo\Kargo\bin\Debug\Npgsql.xml
+C:\Users\HP\Desktop\Kargo\Kargo\bin\Debug\System.Buffers.xml
+C:\Users\HP\Desktop\Kargo\Kargo\bin\Debug\System.Memory.xml
+C:\Users\HP\Desktop\Kargo\Kargo\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HP\Desktop\Kargo\Kargo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\Desktop\Kargo\Kargo\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\HP\Desktop\Kargo\Kargo\bin\Debug\System.Text.Json.xml
+C:\Users\HP\Desktop\Kargo\Kargo\bin\Debug\System.Threading.Channels.xml
+C:\Users\HP\Desktop\Kargo\Kargo\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\HP\Desktop\Kargo\Kargo\bin\Debug\System.ValueTuple.xml
+C:\Users\HP\Desktop\Kargo\Kargo\obj\Debug\Kargo.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Kargo\Kargo\obj\Debug\Kargo.Form1.resources
+C:\Users\HP\Desktop\Kargo\Kargo\obj\Debug\Kargo.Form2.resources
+C:\Users\HP\Desktop\Kargo\Kargo\obj\Debug\Kargo.Form3.resources
+C:\Users\HP\Desktop\Kargo\Kargo\obj\Debug\Kargo.Properties.Resources.resources
+C:\Users\HP\Desktop\Kargo\Kargo\obj\Debug\Kargo.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Kargo\Kargo\obj\Debug\Kargo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Kargo\Kargo\obj\Debug\Kargo.csproj.CopyComplete
+C:\Users\HP\Desktop\Kargo\Kargo\obj\Debug\Kargo.exe
+C:\Users\HP\Desktop\Kargo\Kargo\obj\Debug\Kargo.pdb
+C:\Users\HP\Desktop\Kargo - Kopya\Kargo\obj\Debug\Kargo.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Kargo - Kopya\Kargo\obj\Debug\Kargo.Form1.resources
+C:\Users\HP\Desktop\Kargo - Kopya\Kargo\obj\Debug\Kargo.Form2.resources
+C:\Users\HP\Desktop\Kargo - Kopya\Kargo\obj\Debug\Kargo.Form3.resources
+C:\Users\HP\Desktop\Kargo - Kopya\Kargo\obj\Debug\Kargo.Properties.Resources.resources
+C:\Users\HP\Desktop\Kargo - Kopya\Kargo\obj\Debug\Kargo.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Kargo - Kopya\Kargo\obj\Debug\Kargo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Kargo - Kopya\Kargo\obj\Debug\Kargo.exe
+C:\Users\HP\Desktop\Kargo - Kopya\Kargo\obj\Debug\Kargo.pdb
+C:\Users\HP\Desktop\Kargo - Kopya\Kargo\bin\Debug\Kargo.exe.config
+C:\Users\HP\Desktop\Kargo - Kopya\Kargo\bin\Debug\Kargo.exe
+C:\Users\HP\Desktop\Kargo - Kopya\Kargo\bin\Debug\Kargo.pdb
+C:\Users\HP\Desktop\Kargo - Kopya\Kargo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Desktop\Kargo - Kopya\Kargo\bin\Debug\Npgsql.dll
+C:\Users\HP\Desktop\Kargo - Kopya\Kargo\bin\Debug\System.Buffers.dll
+C:\Users\HP\Desktop\Kargo - Kopya\Kargo\bin\Debug\System.Memory.dll
+C:\Users\HP\Desktop\Kargo - Kopya\Kargo\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\Desktop\Kargo - Kopya\Kargo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Desktop\Kargo - Kopya\Kargo\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\HP\Desktop\Kargo - Kopya\Kargo\bin\Debug\System.Text.Json.dll
+C:\Users\HP\Desktop\Kargo - Kopya\Kargo\bin\Debug\System.Threading.Channels.dll
+C:\Users\HP\Desktop\Kargo - Kopya\Kargo\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Desktop\Kargo - Kopya\Kargo\bin\Debug\System.ValueTuple.dll
+C:\Users\HP\Desktop\Kargo - Kopya\Kargo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\HP\Desktop\Kargo - Kopya\Kargo\bin\Debug\Npgsql.xml
+C:\Users\HP\Desktop\Kargo - Kopya\Kargo\bin\Debug\System.Buffers.xml
+C:\Users\HP\Desktop\Kargo - Kopya\Kargo\bin\Debug\System.Memory.xml
+C:\Users\HP\Desktop\Kargo - Kopya\Kargo\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HP\Desktop\Kargo - Kopya\Kargo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\Desktop\Kargo - Kopya\Kargo\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\HP\Desktop\Kargo - Kopya\Kargo\bin\Debug\System.Text.Json.xml
+C:\Users\HP\Desktop\Kargo - Kopya\Kargo\bin\Debug\System.Threading.Channels.xml
+C:\Users\HP\Desktop\Kargo - Kopya\Kargo\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\HP\Desktop\Kargo - Kopya\Kargo\bin\Debug\System.ValueTuple.xml
+C:\Users\HP\Desktop\Kargo - Kopya\Kargo\obj\Debug\Kargo.csproj.CopyComplete
+D:\Kargo - Kopya\Kargo\bin\Debug\Kargo.exe.config
+D:\Kargo - Kopya\Kargo\bin\Debug\Kargo.exe
+D:\Kargo - Kopya\Kargo\bin\Debug\Kargo.pdb
+D:\Kargo - Kopya\Kargo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Kargo - Kopya\Kargo\bin\Debug\Npgsql.dll
+D:\Kargo - Kopya\Kargo\bin\Debug\System.Buffers.dll
+D:\Kargo - Kopya\Kargo\bin\Debug\System.Memory.dll
+D:\Kargo - Kopya\Kargo\bin\Debug\System.Numerics.Vectors.dll
+D:\Kargo - Kopya\Kargo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Kargo - Kopya\Kargo\bin\Debug\System.Text.Encodings.Web.dll
+D:\Kargo - Kopya\Kargo\bin\Debug\System.Text.Json.dll
+D:\Kargo - Kopya\Kargo\bin\Debug\System.Threading.Channels.dll
+D:\Kargo - Kopya\Kargo\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Kargo - Kopya\Kargo\bin\Debug\System.ValueTuple.dll
+D:\Kargo - Kopya\Kargo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Kargo - Kopya\Kargo\bin\Debug\Npgsql.xml
+D:\Kargo - Kopya\Kargo\bin\Debug\System.Buffers.xml
+D:\Kargo - Kopya\Kargo\bin\Debug\System.Memory.xml
+D:\Kargo - Kopya\Kargo\bin\Debug\System.Numerics.Vectors.xml
+D:\Kargo - Kopya\Kargo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Kargo - Kopya\Kargo\bin\Debug\System.Text.Encodings.Web.xml
+D:\Kargo - Kopya\Kargo\bin\Debug\System.Text.Json.xml
+D:\Kargo - Kopya\Kargo\bin\Debug\System.Threading.Channels.xml
+D:\Kargo - Kopya\Kargo\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Kargo - Kopya\Kargo\bin\Debug\System.ValueTuple.xml
+D:\Kargo - Kopya\Kargo\obj\Debug\Kargo.csprojAssemblyReference.cache
+D:\Kargo - Kopya\Kargo\obj\Debug\Kargo.Form1.resources
+D:\Kargo - Kopya\Kargo\obj\Debug\Kargo.Form2.resources
+D:\Kargo - Kopya\Kargo\obj\Debug\Kargo.Form3.resources
+D:\Kargo - Kopya\Kargo\obj\Debug\Kargo.Properties.Resources.resources
+D:\Kargo - Kopya\Kargo\obj\Debug\Kargo.csproj.GenerateResource.cache
+D:\Kargo - Kopya\Kargo\obj\Debug\Kargo.csproj.CoreCompileInputs.cache
+D:\Kargo - Kopya\Kargo\obj\Debug\Kargo.csproj.CopyComplete
+D:\Kargo - Kopya\Kargo\obj\Debug\Kargo.exe
+D:\Kargo - Kopya\Kargo\obj\Debug\Kargo.pdb
+D:\G191210384 VTYS Kargo\Kargo\bin\Debug\Kargo.exe.config
+D:\G191210384 VTYS Kargo\Kargo\bin\Debug\Kargo.exe
+D:\G191210384 VTYS Kargo\Kargo\bin\Debug\Kargo.pdb
+D:\G191210384 VTYS Kargo\Kargo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\G191210384 VTYS Kargo\Kargo\bin\Debug\Npgsql.dll
+D:\G191210384 VTYS Kargo\Kargo\bin\Debug\System.Buffers.dll
+D:\G191210384 VTYS Kargo\Kargo\bin\Debug\System.Memory.dll
+D:\G191210384 VTYS Kargo\Kargo\bin\Debug\System.Numerics.Vectors.dll
+D:\G191210384 VTYS Kargo\Kargo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\G191210384 VTYS Kargo\Kargo\bin\Debug\System.Text.Encodings.Web.dll
+D:\G191210384 VTYS Kargo\Kargo\bin\Debug\System.Text.Json.dll
+D:\G191210384 VTYS Kargo\Kargo\bin\Debug\System.Threading.Channels.dll
+D:\G191210384 VTYS Kargo\Kargo\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\G191210384 VTYS Kargo\Kargo\bin\Debug\System.ValueTuple.dll
+D:\G191210384 VTYS Kargo\Kargo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\G191210384 VTYS Kargo\Kargo\bin\Debug\Npgsql.xml
+D:\G191210384 VTYS Kargo\Kargo\bin\Debug\System.Buffers.xml
+D:\G191210384 VTYS Kargo\Kargo\bin\Debug\System.Memory.xml
+D:\G191210384 VTYS Kargo\Kargo\bin\Debug\System.Numerics.Vectors.xml
+D:\G191210384 VTYS Kargo\Kargo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\G191210384 VTYS Kargo\Kargo\bin\Debug\System.Text.Encodings.Web.xml
+D:\G191210384 VTYS Kargo\Kargo\bin\Debug\System.Text.Json.xml
+D:\G191210384 VTYS Kargo\Kargo\bin\Debug\System.Threading.Channels.xml
+D:\G191210384 VTYS Kargo\Kargo\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\G191210384 VTYS Kargo\Kargo\bin\Debug\System.ValueTuple.xml
+D:\G191210384 VTYS Kargo\Kargo\obj\Debug\Kargo.csprojAssemblyReference.cache
+D:\G191210384 VTYS Kargo\Kargo\obj\Debug\Kargo.Form1.resources
+D:\G191210384 VTYS Kargo\Kargo\obj\Debug\Kargo.Form2.resources
+D:\G191210384 VTYS Kargo\Kargo\obj\Debug\Kargo.Form3.resources
+D:\G191210384 VTYS Kargo\Kargo\obj\Debug\Kargo.Properties.Resources.resources
+D:\G191210384 VTYS Kargo\Kargo\obj\Debug\Kargo.csproj.GenerateResource.cache
+D:\G191210384 VTYS Kargo\Kargo\obj\Debug\Kargo.csproj.CoreCompileInputs.cache
+D:\G191210384 VTYS Kargo\Kargo\obj\Debug\Kargo.csproj.CopyComplete
+D:\G191210384 VTYS Kargo\Kargo\obj\Debug\Kargo.exe
+D:\G191210384 VTYS Kargo\Kargo\obj\Debug\Kargo.pdb
